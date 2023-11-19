@@ -1,0 +1,17 @@
+{
+  "name": "mesjid-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node ./src/index.js",
+    "parse": "node ./src/parse.js",
+    "clear": "node ./src/clear.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

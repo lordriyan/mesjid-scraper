@@ -1,0 +1,4 @@
+node_modules
+data/collection/*
+data/spreadsheet/*
+!.gitkeep
